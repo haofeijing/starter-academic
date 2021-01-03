@@ -30,10 +30,11 @@ education:
   courses:
     - course: B.Sc. of Mathematics
       institution: Chinese University of Hong Kong, Shenzhen
+      year: 2021
 superuser: true
 highlight_name: false
 title: Yinbin Han
-email: ""
+email: yinbinhan@link.cuhk.edu.cn
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
