@@ -35,5 +35,4 @@ item:
   organization: Chinese University of Hong Kong, Shenzhen
   title: Academic Performance Award
   url: ""
-
 ---
