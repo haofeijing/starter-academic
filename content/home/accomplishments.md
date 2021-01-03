@@ -29,7 +29,7 @@ item:
   organization: Education Ministry of China
   title: China National Scholarship 
   url: "" 
--  date_end: ""
+- date_end: ""
   date_start: "2020-12-01"
   description: ""
   organization: Chinese University of Hong Kong, Shenzhen
