@@ -1,6 +1,6 @@
 ---
 role: Senior Undergraduate
-avatar_filename: 66ad5f47-f02c-49bc-a4de-1a36e8e83dab.jpeg
+avatar_filename: 41e8afd0-ecb4-40f7-92cf-b2c1812f860b_1_201_a.jpeg
 bio: My research interests include applied probability, stochastic modeling,
   stochastic control and applications on service systems
 interests:
