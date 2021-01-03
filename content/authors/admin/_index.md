@@ -27,7 +27,9 @@ organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
 education:
-  courses: []
+  courses:
+    - course: B.Sc. of Mathematics
+      institution: Chinese University of Hong Kong, Shenzhen
 superuser: true
 highlight_name: false
 title: Yinbin Han
