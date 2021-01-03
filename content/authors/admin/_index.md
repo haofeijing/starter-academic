@@ -4,9 +4,9 @@ avatar_filename: 66ad5f47-f02c-49bc-a4de-1a36e8e83dab.jpeg
 bio: My research interests include applied probability, stochastic modeling,
   stochastic control and applications on service systems
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied Probability
+  - Stochastic Control
+  - Applications on Service Systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Chinese University of Hong Kong, Shenzhen
+    url: https://www.cuhk.edu.cn/
 education:
   courses:
     - course: B.Sc. of Mathematics
