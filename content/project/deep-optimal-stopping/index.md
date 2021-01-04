@@ -1,6 +1,6 @@
 ---
 title: Deep Optimal Stopping
-date: 2021-01-04T09:34:30.858Z
+date: 2021-01-04T09:35:38.650Z
 summary: Analyze deep optimal stopping method and adapt to finance problem
 draft: false
 featured: false
