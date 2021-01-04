@@ -1,7 +1,16 @@
 ---
 title: Deep Optimal Stopping
 date: 2021-01-04T09:02:09.838Z
-summary: "* Adapted a deep neural network to approximate value function in a
+summary: Analyze deep optimal stopping method and adapt to finance problem
+draft: false
+featured: false
+external_link: ""
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+---
+  * Adapted a deep neural network to approximate value function in a
   discrete optimal stopping problem and applied the method to Bermudan option
   pricing\r
 
@@ -15,11 +24,3 @@ summary: "* Adapted a deep neural network to approximate value function in a
   * Created a mathematical model using dynamic programming for the optimal
   stock selling/buying decision in the bull/bear switching market and find each
   single decision through deep optimal stopping (DOS)\r\n"
-draft: false
-featured: false
-external_link: ""
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
----
