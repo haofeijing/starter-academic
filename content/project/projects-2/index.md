@@ -1,7 +1,7 @@
 ---
 title: Aircraft Switching
 date: 2021-01-04T04:50:09.851Z
-summary: >-
+body: >-
   * Studied an aircraft switching problem: given two stochastic processes and
   two servers, based on current observation of arrival, decided whether to
   switch two servers to accommodate unexpected demand
