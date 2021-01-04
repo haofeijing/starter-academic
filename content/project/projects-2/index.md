@@ -4,7 +4,7 @@ date: 2021-01-04T05:30:09.851Z
 summary: Study aircraft fleet management problem with switching flexibility
 draft: false
 featured: false
-external_link: ""
+external_link: " "
 image:
   filename: featured
   focal_point: Smart
