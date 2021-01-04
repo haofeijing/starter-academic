@@ -1,9 +1,11 @@
 ---
-title: projects 2
+title: Aircraft Switching
 date: 2021-01-04T04:50:09.851Z
+summary: Given two
 draft: false
 featured: false
 external_link: google.com
+links: []
 image:
   filename: featured
   focal_point: Smart
