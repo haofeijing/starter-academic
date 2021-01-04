@@ -4,7 +4,7 @@ date: 2021-01-04T09:35:38.650Z
 summary: Analyze deep optimal stopping method and adapt to finance problem
 draft: false
 featured: false
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
