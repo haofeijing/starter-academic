@@ -15,9 +15,9 @@ summary: >-
   * Proved the order of benefit of switching flexibility in time $ T $. 
 draft: false
 featured: false
-external_link: yinbin-han.netlify.app
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
