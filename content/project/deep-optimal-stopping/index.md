@@ -15,9 +15,9 @@ summary: "* Adapted a deep neural network to approximate value function in a
   * Created a mathematical model using dynamic programming for the optimal
   stock selling/buying decision in the bull/bear switching market and find each
   single decision through deep optimal stopping (DOS)\r\n"
-draft: true
-featured: true
-external_link: ---
+draft: false
+featured: false
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
