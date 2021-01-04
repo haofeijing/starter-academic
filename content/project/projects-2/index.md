@@ -1,6 +1,6 @@
 ---
 title: Aircraft Switching
-date: 2021-01-04T04:50:09.851Z
+date: 2021-01-04T05:30:09.851Z
 summary: Study aircraft fleet management problem with switching flexibility
 draft: false
 featured: false
