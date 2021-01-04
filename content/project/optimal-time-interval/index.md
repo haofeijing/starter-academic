@@ -12,7 +12,7 @@ summary: "* Adapted deep reinforcement learning to find the optimal consecutive
   feasibility of our method\r\n"
 draft: false
 featured: false
-external_link: yinbin-han.netlify.app
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
