@@ -4,7 +4,7 @@ date: 2021-01-04T09:35:22.271Z
 summary: Analyze optimal batch-matching time inverval for online ride-hailing platform
 draft: false
 featured: false
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
